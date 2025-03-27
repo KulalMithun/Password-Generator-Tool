@@ -78,6 +78,16 @@ Ensure you have **Java 8 or later** installed on your system.
 - **Clipboard integration** for copy-paste functionality
 
 ---
+## To-Do
+1. Need to make interface more user friendly.
+2. Password store in txt/csv.
+3. Using encryption to store password.
+4. Login system for users to use this tool.
+5. **Help** button for clearing confusion.
+6. Need to implement Secure password while generating password.
+7. Need to add more factors while determining strength of password.
+8. Strength check meter to enchance visualization kf strength of password.
+   
 
 ## Contribution
 If you’d like to improve the tool, feel free to fork the repo, make changes, and submit a pull request.
